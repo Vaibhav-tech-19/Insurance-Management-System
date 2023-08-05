@@ -5,10 +5,10 @@
 ![homepage snap](https://github.com/Vaibhav-tech-19/Insurance-Management-System/blob/master/static/screenshots/home-page.png)
 ### Admin Dashboard
 ![dashboard snap](https://github.com/Vaibhav-tech-19/Insurance-Management-System/blob/master/static/screenshots/dashboard.png)
-### Policy Record
-![invoice snap](https://github.com/Vaibhav-tech-19/Insurance-Management-System/blob/master/static/screenshots/policy-data.png)
-### Policy 
-![doctor snap](https://github.com/Vaibhav-tech-19/Insurance-Management-System/blob/master/static/screenshots/policy-record.png)
+### Policy Data
+![Policy snap](https://github.com/Vaibhav-tech-19/Insurance-Management-System/blob/master/static/screenshots/policy-data.png)
+### Policy Records
+![Records snap](https://github.com/Vaibhav-tech-19/Insurance-Management-System/blob/master/static/screenshots/policy-record.png)
 ---
 ## Functions
 ### Admin
