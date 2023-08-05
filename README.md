@@ -1,6 +1,6 @@
 # Insurance Management System
 ---
-## screenshots
+## Screenshots
 ### Homepage
 ![homepage snap](https://github.com/Vaibhav-tech-19/Insurance-Management-System/blob/master/static/screenshots/home-page.png)
 ### Admin Dashboard
