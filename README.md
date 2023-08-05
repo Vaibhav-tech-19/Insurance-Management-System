@@ -2,13 +2,13 @@
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/homepage.png?raw=true)
+![homepage snap](https://github.com/Vaibhav-tech-19/Insurance-Management-System/blob/master/static/screenshots/home-page.png)
 ### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/dashboard.png?raw=true)
+![dashboard snap](https://github.com/Vaibhav-tech-19/Insurance-Management-System/blob/master/static/screenshots/dashboard.png)
 ### Policy Record
-![invoice snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/policyrecord.png?raw=true)
+![invoice snap](https://github.com/Vaibhav-tech-19/Insurance-Management-System/blob/master/static/screenshots/policy-data.png)
 ### Policy 
-![doctor snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/policy.png?raw=true)
+![doctor snap](https://github.com/Vaibhav-tech-19/Insurance-Management-System/blob/master/static/screenshots/policy-record.png)
 ---
 ## Functions
 ### Admin
