@@ -1,4 +1,4 @@
-# Insurance Management
+# Insurance Management System
 ---
 ## screenshots
 ### Homepage
